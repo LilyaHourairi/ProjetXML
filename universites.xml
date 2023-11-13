@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="universites.xsl"?>
+<!DOCTYPE universites SYSTEM "universites.dtd">
+<universites>
+	<universite>
+		<nom>Université Mohammed V</nom>
+		<ville>Rabat</ville>
+		<image>images\téléchargement.png</image>
+		<facultes>
+				
+			<faculte>
+					<nom>Faculté des sciences juridiques, économiques et sociales - Agdal </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences juridiques, économiques et sociales - Souissi </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences juridiques, économiques et sociales - Salé </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté de Medecine et de Pharmacie </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté de Medecine Dentaire </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences  </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences de l'éducation </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des lettres et des sciences humaines </nom>
+			</faculte>
+		</facultes>
+
+		<ecoles>		
+			<ecole>
+				<nom>Ecole Mohammadia d’Ingénieurs</nom>
+			</ecole>
+			<ecole>
+				<nom>Ecole Supérieure de Technologie</nom>
+			</ecole>
+			<ecole>
+				<nom>Ecole Normale Supérieure</nom>
+			</ecole>
+			<ecole>
+				<nom>Ecole Nationale Supérieure d'Informatique et d'Analyse des Systèmes</nom>
+			</ecole>
+			<ecole>
+				<nom>Ecole Normale Supérieure de l' Enseignement Technique</nom>
+			</ecole>
+		</ecoles>
+        <instituts>		
+			<institut>
+				<nom> Institut des études hispano-lusophones</nom>
+			</institut>
+			<institut>
+				<nom> Institut d'études et de recherche pour l'arabisation</nom>
+			</institut>
+			<institut>
+				<nom> Institut universitaire de la recherche scientifique</nom>
+			</institut>
+			<institut>
+				<nom> Institut des études Africaines</nom>
+			</institut>
+		</instituts>
+	</universite>
+	<universite>
+		<nom>Université Cadi Ayyad</nom>
+		<ville>Marrakech</ville>
+		<image>images\téléchargement2.jpg</image>
+		<facultes>
+			<faculte>
+				<nom>Faculté des sciences – Semlalia </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté de medecine et pharmacie </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des lettres et des sciences humaines </nom>
+	        </faculte>
+			<faculte>
+				<nom>Faculté des sciences juridiques, économiques et sociales </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences et techniques </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté Polydisciplinaire de Safi </nom>
+			</faculte>
+		</facultes>
+		<ecoles>		
+			<ecole>
+				<nom>École nationale des sciences appliquées de Marrakech</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale de commerce et de gestion de Marrakech</nom>
+			</ecole>
+			<ecole>
+				<nom>École normale supérieure</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale d’architecture (ENA).</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale des sciences appliquées de Safi</nom>
+			</ecole>
+			<ecole>
+				<nom>École supérieure de technologie d’Essaouira</nom>
+			</ecole>
+		</ecoles>
+        <instituts>		
+			<institut>
+				<nom> Pas d'institut </nom>
+			</institut>
+		</instituts>
+	</universite>
+	<universite>
+		<nom>Université Hassan 2</nom>
+		<ville>Casablanca</ville>
+		<image>images\téléchargement3.png</image>
+		<facultes>
+			<faculte>
+				<nom>Faculté des sciences juridiques, économiques et sociales de Casablanca </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté de Sciences – Ain Chock </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté de médecine et de pharmacie de Casablanca (FMPC)</nom>
+	        </faculte>
+			<faculte>
+				<nom>Faculté de médecine dentaire de Casablanca(FMDC) </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des lettres et des sciences humaines d’Ain Chock (FLSH)</nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences de Ben M’Sik (FSB) </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des lettres et des sciences humaines de Ben M’Sik </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences juridiques, économiques et sociales d’Ain Sebaâ </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences juridiques, économiques et sociales de Mohammedia </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des lettres et des sciences humaines de Mohammedia  </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences et techniques de Mohammedia</nom>
+			</faculte>
+		</facultes>
+		<ecoles>		
+			<ecole>
+				<nom>École nationale supérieure d’électricité et de mécanique de Casablanca</nom>
+			</ecole>
+			<ecole>
+				<nom>École supérieure de technologie de Casablanca</nom>
+			</ecole>
+			<ecole>
+				<nom>École normale supérieure</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale supérieure d’arts et métiers de Casablanca </nom>
+			</ecole>
+			<ecole>
+				<nom>École supérieure des arts appliqués</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale de commerce et de gestion de Casablanca</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale supérieure de l’enseignement technique de Mohammedia</nom>
+			</ecole>
+		</ecoles>
+        <instituts>		
+			<institut>
+				<nom> Pas d'institut </nom>
+			</institut>
+		</instituts>
+	</universite>
+	<universite>
+		<nom>Université Ibn-Tofail</nom>
+		<ville>Kénitra</ville>
+		<image>images\téléchargement4.png</image>
+		<facultes>
+			<faculte>
+				<nom>Faculté des Sciences </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des Lettres et Sciences Humaines </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des Sciences Économique, Juridiques et Sociales</nom>
+	        </faculte>
+		</facultes>
+		<ecoles>		
+			<ecole>
+				<nom>École nationale de commerce et de gestion</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale des sciences appliquées</nom>
+			</ecole>
+			<ecole>
+				<nom>École supérieure de technologie</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale supérieure de chimie </nom>
+			</ecole>
+		</ecoles>
+        <instituts>		
+			<institut>
+				<nom> Pas d'institut </nom>
+			</institut>
+		</instituts>
+	</universite>
+	<universite>
+		<nom>Université Chouaib Doukkali</nom>
+		<ville>El Jadida</ville>
+		<image>images\téléchargement5.jpg</image>
+		<facultes>
+			<faculte>
+				<nom>Faculté des Sciences </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des Lettres et Sciences Humaines </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des Sciences Économique, Juridiques et Sociales</nom>
+	        </faculte>
+			<faculte>
+				<nom>La Faculté Polydisciplinaire de Sidi Bennour</nom>
+	        </faculte>
+		</facultes>
+		<ecoles>		
+			<ecole>
+				<nom>École nationale de commerce et de gestion</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale des sciences appliquées</nom>
+			</ecole>
+			<ecole>
+				<nom>École Supérieure de Technologie de Sidi Bennour</nom>
+			</ecole>
+		</ecoles>
+        <instituts>		
+			<institut>
+				<nom> Pas d'institut </nom>
+			</institut>
+		</instituts>
+	</universite>
+	<universite>
+		<nom> Université Sultan Moulay Slimane</nom>
+		<ville>Béni Mellal</ville>
+		<image>images\téléchargement6.jpg</image>
+		<facultes>
+			<faculte>
+				<nom>Faculté des Sciences et techniques (créée en 1994) </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des Lettres et Sciences Humaines (créée en 1987)</nom>
+			</faculte>
+			<faculte>
+				<nom>La Faculté Polydisciplinaire </nom>
+	        </faculte>
+		</facultes>
+		<ecoles>		
+			<ecole>
+				<nom>École nationale de commerce et de gestion (2012–2013)</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale des sciences appliquées de khribgha (2007)</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale des sciences appliquées de beni mellal (2019-2020)</nom>
+			</ecole>
+			<ecole>
+				<nom>École supérieure de technologie.</nom>
+			</ecole>
+		</ecoles>
+        <instituts>		
+			<institut>
+				<nom>Institut Supérieur des Professions Infirmières et Techniques de Santé (ISPITS) </nom>
+			</institut>
+		</instituts>
+	</universite>
+	<universite>
+		<nom> Université Moulay-Ismaïl</nom>
+		<ville>Meknès</ville>
+		<image>images\téléchargement7.png</image>
+		<facultes>
+			<faculte>
+				<nom>Faculté des Sciences  </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des Lettres et Sciences Humaines</nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des Sciences Juridiques, Économiques et Sociales </nom>
+	        </faculte>
+		</facultes>
+		<ecoles>		
+			<ecole>
+				<nom>École Nationale Supérieure des Arts et Métiers</nom>
+			</ecole>
+			<ecole>
+				<nom>École Supérieure de Technologie</nom>
+			</ecole>
+			<ecole>
+				<nom>École Nationale de l'Agriculture de Meknès</nom>
+			</ecole>
+		</ecoles>
+        <instituts>		
+			<institut>
+				<nom>Pas d'institut </nom>
+			</institut>
+		</instituts>
+	</universite>
+	<universite>
+		<nom>Université Ibn Zohr</nom>
+		<ville>Agadir</ville>
+		<image>images\téléchargement8.jpg</image>
+		<facultes>
+			<faculte>
+				<nom>Faculté des sciences – Agadir </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences juridiques, économiques et sociales – Agadir </nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des Lettres et des Sciences Humaines – Agadir</nom>
+	        </faculte>
+			<faculte>
+				<nom>Faculté de Médecine et de Pharmacie – Agadir</nom>
+	        </faculte>
+			<faculte>
+				<nom>Faculté des sciences juridiques, économiques et sociales – Ait Melloul</nom>
+	        </faculte>
+			<faculte>
+				<nom>Faculté des Sciences Appliquées – Ait Melloul</nom>
+	        </faculte>
+			<faculte>
+				<nom>Faculté des Langues, Arts et Sciences Humaines – Ait Melloul</nom>
+	        </faculte>
+			<faculte>
+				<nom>Faculté pluridisciplinaire – Ouarzazate</nom>
+	        </faculte>
+			<faculte>
+				<nom>Faculté pluridisciplinaire – Taroudannt</nom>
+	        </faculte>
+			<faculte>
+				<nom>Faculté Chariâa – Ait Melloul</nom>
+	        </faculte>
+			<faculte>
+				<nom>Faculté Chariâa – Smara</nom>
+	        </faculte>
+		</facultes>
+		<ecoles>		
+			<ecole>
+				<nom>École nationale de commerce et de gestion – Agadir</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale de commerce et de gestion – Dakhla</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale des sciences appliquées – Agadir</nom>
+			</ecole>
+			<ecole>
+				<nom>École supérieure de technologie – Agadir</nom>
+			</ecole>
+			<ecole>
+				<nom>École Supérieure de Technologie – Guelmim</nom>
+			</ecole>
+			<ecole>
+				<nom>École Supérieure de Technologie – Laâyoune</nom>
+			</ecole>
+		</ecoles>
+        <instituts>		
+			<institut>
+				<nom> Pas d'institut </nom>
+			</institut>
+		</instituts>
+	</universite>
+	<universite>
+		<nom>Université Hassan - 1er</nom>
+		<ville>Settat</ville>
+		<image>images\téléchargement9.jpg</image>
+		<facultes>
+			<faculte>
+				<nom>Faculté des sciences juridiques et économiques et sociales</nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences et techniques</nom>
+			</faculte>
+		</facultes>
+		<ecoles>		
+			<ecole>
+				<nom>École nationale des sciences appliquées de berchid</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale de commerce et de gestion</nom>
+			</ecole>
+		</ecoles>
+        <instituts>		
+			<institut>
+				<nom>Institut supérieur de santé</nom>
+			</institut>
+		</instituts>
+	</universite>
+	<universite>
+		<nom>Université Sidi Mohamed Ben Abdellah</nom>
+		<ville>Fès</ville>
+		<image>images\téléchargementa.png</image>
+		<facultes>
+			<faculte>
+				<nom>Faculté des sciences et techniques</nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences</nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des lettres et des sciences humaines</nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté de médecine et de pharmacie</nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des sciences juridiques économique et sociales</nom>
+			</faculte>
+			<faculte>
+				<nom>Faculté des lettres et des sciences humaines</nom>
+			</faculte>
+		</facultes>
+		<ecoles>		
+			<ecole>
+				<nom>École nationale des sciences appliquées</nom>
+			</ecole>
+			<ecole>
+				<nom>École nationale de commerce et de gestion</nom>
+			</ecole>
+		</ecoles>
+        <instituts>		
+			<institut>
+				<nom>Pas d'institut</nom>
+			</institut>
+		</instituts>
+	</universite>
+</universites>

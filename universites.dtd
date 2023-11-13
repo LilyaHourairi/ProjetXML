@@ -1,0 +1,11 @@
+    <!ELEMENT universites (universite+)>
+    <!ELEMENT universite (nom, ville,image, facultes, ecoles, instituts)>
+    <!ELEMENT nom (#PCDATA)>
+    <!ELEMENT ville (#PCDATA)>
+    <!ELEMENT image (#PCDATA)>
+    <!ELEMENT facultes (faculte+)>
+    <!ELEMENT faculte (nom)>
+    <!ELEMENT ecoles (ecole+)>
+    <!ELEMENT ecole (nom)>
+    <!ELEMENT instituts (institut+)>
+    <!ELEMENT institut (nom)>
